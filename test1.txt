@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 9AE1-4DD2
+
+ R‚pertoire de C:\Users\HP\Desktop\MonProjet
+
+02/05/2019  02:52    <DIR>          .
+02/05/2019  02:52    <DIR>          ..
+02/05/2019  02:52                 0 test1.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  88ÿ983ÿ134ÿ208 octets libres
